@@ -1,0 +1,15 @@
+.circleOff{
+  display: inline-block;
+  height:50px;
+  width: 50px;
+  background-color: red;
+  margin: 5px;
+}
+
+.circleOn{
+  display: inline-block;
+  height:50px;
+  width: 50px;
+  background-color: green;
+  margin: 5px;
+}

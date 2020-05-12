@@ -1,0 +1,11 @@
+{
+  "name": "binaryclock",
+  "version": "1.0.0",
+  "description": "A clock to display the current time in binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael A. Kilcorse <kilcorse.michael92@gmail.com>",
+  "license": "ISC"
+}
